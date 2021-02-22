@@ -1,6 +1,6 @@
 # RUL_Prediction_for_predictive_maintenance
 
-Predictive Maintenance is used to determine the condition of an equipment to plan the maintenance/failure ahead of its time. one of the most used techniques in PdM is calculating Remaining useful life (RUL) which is the length of time a machine is likely to operate before it requires repair or replacement. By taking RUL into account, engineers can schedule maintenance, optimize operating efficiency, and avoid unplanned downtime. For this reason, the objective of this project is to implement a machine learning models combined with reliability engineering tools such as exponential degradation model to fit time series models to condition indicators extracted from sensor data and then predict when the condition indicator will cross the threshold
+Predictive Maintenance is used to determine the condition of an equipment to plan the maintenance/failure ahead of its time. one of the most used techniques in PdM is the calculating Remaining useful life (RUL) which is the length of time a machine is likely to operate before it requires repair or replacement. By taking RUL into account, engineers can schedule maintenance, optimize operating efficiency, and avoid unplanned downtime. For this reason, the objective of this project is to implement a machine learning models combined with reliability engineering tools such as exponential degradation model to fit time series models to condition indicators extracted from sensor data and then predict when the condition indicator will cross the threshold
 
 
 # Data
