@@ -29,4 +29,4 @@ The data are provided in a txt format with 26 columns of numbers, separated by s
 # References
 A. Saxena, K. Goebel, D. Simon, and N. Eklund, “Damage Propagation Modeling for Aircraft Engine Run-to-Failure Simulation”, in the Proceedings of the 1st International Conference on Prognostics and Health Management (PHM08), Denver CO, Oct 2008.
 
-A. Saxena and K. Goebel (2008). "Turbofan Engine Degradation Simulation Data Set", https://ti.arc.nasa.gov/c/13/), NASA Ames, Moffett Field, CA."
+A. Saxena and K. Goebel (2008). "Turbofan Engine Degradation Simulation Data Set", NASA Ames, Moffett Field, CA."
